@@ -1,7 +1,7 @@
-## Hi there 👋
+## 嘿！你好 👋
 
 
-**Here are some ideas to get you started:**
+**这里可以帮你快速融入组织:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
 🌈 Contribution guidelines - how can the community get involved?
